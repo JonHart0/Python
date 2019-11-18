@@ -8,3 +8,4 @@ Example Python scripts:
   Examples: min_coins(33) --> 1 Quarters, 0 Dimes, 1 Nickels, 3 Pennies
             min_coins(999) --> 39 Quarters, 2 Dimes, 0 Nickels, 4 Pennies
   ```
+min_coins_short is an updated version, that uses a for loop to reduce amount of code lines to 25%
